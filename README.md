@@ -23,7 +23,7 @@ To run this project, you will need the following packages:
 
 # Results
 
-"Ladies and Gentlemen, buckle up, 'cause we've got a wild ride ahead! Our model is performing like a boss, with an accuracy of 100%, and let's be real, we all know that's about as rare as finding a unicorn in your backyard. But hey, who are we to complain? We're on top of the world!"
+Ladies and Gentlemen, buckle up, cause we've got a wild ride ahead! Our model is performing like a boss, with an accuracy of 100%, and let's be real, we all know that's about as rare as finding a unicorn in your backyard. But hey, who are we to complain? We're on top of the world!
 
 # Conclusion
 
