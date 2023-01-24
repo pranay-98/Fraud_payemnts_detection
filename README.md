@@ -16,10 +16,10 @@ In this project, we used the Adaptive Synthetic Sampling (ADASYN) algorithm and 
 
 To run this project, you will need the following packages:
 
-pandas
-numpy
-sklearn
-imbalanced-learn
+* pandas
+* numpy
+* sklearn
+* imbalanced-learn
 
 # Results
 
